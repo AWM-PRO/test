@@ -504,17 +504,17 @@ def menu(n,t,c):
 
 	print(logo(n)+f'\n')
 
-	print(f" [{hh}01{P}] CRACK PUBLIC    [{hh}07{P}] CRACK SEARCH")
+	print(f" [{hh}01{P}] CRACK PUBLIC       [{hh}07{P}] CRACK SEARCH")
 
-	print(f" [{hh}02{P}] CRACK PUBLIC (UN)         [{hh}08{P}] CRACK FILE CLONE")
+	print(f" [{hh}02{P}] CRACK PUBLIC (UN)  [{hh}08{P}] CRACK FILE CLONE")
 
-	print(f" [{hh}03{P}] CRACK FOLLO     [{hh}09{P}] CHECK ID CRACKER")
+	print(f" [{hh}03{P}] CRACK FOLLOWER     [{hh}09{P}] CHECK ID CRACKER")
 
-	print(f" [{hh}04{P}] CRACK COMM     [{hh}10{P}] CHECK ID OK")
+	print(f" [{hh}04{P}] CRACK COMMENTS     [{hh}10{P}] CHECK ID OK")
 
-	print(f" [{hh}05{P}] CRACK GROUP    [{hh}11{P}] CHECK ID CP")
+	print(f" [{hh}05{P}] CRACK GROUP        [{hh}11{P}] CHECK ID CP")
 
-	print(f" [{hh}06{P}] CRACK EMAIL      [{hh}12{P}] EXIT ({M}cookie{P})")
+	print(f" [{hh}06{P}] CRACK EMAIL        [{hh}12{P}] EXIT ({M}cookie{P})")
 
 	ask = input(f' └─ MENU : ')
 
